@@ -1,0 +1,11 @@
+{
+  "name": "log-parser",
+  "version": "1.0.0",
+  "description": "A parser that takes as input a file path and will parse the content.",
+  "main": "kapptivate-log-parser.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Iscia Ambayrac Bodi",
+  "license": "ISC"
+}
